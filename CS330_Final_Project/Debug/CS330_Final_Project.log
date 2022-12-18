@@ -1,0 +1,12 @@
+﻿  Main.cpp
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(291,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(394,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(395,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(399,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(400,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(402,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(403,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(413,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(479,12): warning C4101: 'rotation1': unreferenced local variable
+\\apporto.com\dfs\SNHU\Users\drewpepin_snhu\Desktop\CS330_Final_Project\Main.cpp(480,12): warning C4101: 'rotation2': unreferenced local variable
+  CS330_Final_Project.vcxproj -> \\apporto.com\dfs\SNHU\USERS\drewpepin_snhu\Desktop\CS330_Final_Project\Debug\CS330_Final_Project.exe
